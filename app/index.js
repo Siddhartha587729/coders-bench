@@ -4,7 +4,7 @@ const Home = ()=>{
     return (
         <View>
             <Text>
-                home
+                Twitter blah blah X
             </Text>
         </View>
     )
